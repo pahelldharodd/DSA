@@ -1,0 +1,5 @@
+*.exe
+.claude/
+input.txt
+output.txt
+docs/
